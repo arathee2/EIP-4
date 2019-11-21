@@ -18,4 +18,4 @@ print(score)
 
 7. Activation Function: A function applied to the feature map to make the neural network non-linear and more complex and more powerful. Popular such functions are relu, tanh, and sigmoid.
 
-8. Receptive Field: The portion of image that is being looked at at a given time.
+8. Receptive Field: The portion of image that's being looked at at a given time.

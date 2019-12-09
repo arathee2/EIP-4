@@ -1,3 +1,6 @@
+# annotations
+Image annotations are submitted through online tool.
+
 # accuracy
 0.8615
 

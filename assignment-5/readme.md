@@ -1,6 +1,6 @@
 # summary
 
-Trained weights of VGGNet from scratch for 50 epochs using cyclic LR. All metrics are mentioned below.
+Trained weights of VGGNet from scratch using cyclic LR. All metrics are mentioned below. Google Colab was either crashing or getting disconnected after 50 epochs which is why I trained it for 50 epochs.
 
 # metrics
 

@@ -6,6 +6,8 @@ Trained weights of VGGNet from scratch using cyclic LR. All metrics are mentione
 
 ## loss
 
+Total loss of all output variables = 8.981092. 
+
 |  outcome-variable | loss  |
 |---------|--------|
 | gender_output_loss | 0.619124 |
